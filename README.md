@@ -1,6 +1,10 @@
 # HyperOP
 
+THE FILES MAYBE GONNA BE DIFF AND NAMED "TURBOFPS" THATS ONLY FOR THE SOURCE CODE!
+
 Password to acces the main files: HyperOP
+
+-------Story
 
 Introducing HyperOP - The Ultimate FPS Booster! 🎮🚀
 
