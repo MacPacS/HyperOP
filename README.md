@@ -4,6 +4,8 @@ THE FILES MAYBE GONNA BE DIFF AND NAMED "TURBOFPS" THATS ONLY FOR THE SOURCE COD
 
 Password to acces the main files: HyperOP
 
+if u biuld the project make sure u but the frash builed files like the exe files and make an new folder paste the things their in and put the "Recources" folder to make more option working!
+
 -------Story
 
 Introducing HyperOP - The Ultimate FPS Booster! 🎮🚀
